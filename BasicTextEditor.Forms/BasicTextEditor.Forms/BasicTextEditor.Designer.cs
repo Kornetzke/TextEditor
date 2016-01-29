@@ -1,6 +1,6 @@
 ﻿namespace BasicTextEditor.Forms
 {
-    partial class Form1
+    partial class BasicTextEditor
     {
         /// <summary>
         /// Required designer variable.
